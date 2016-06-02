@@ -1,0 +1,5 @@
+alias remove_pyc="find . -name \"*.pyc\" -exec rm -rf {} \;"
+
+alias c="clear"
+
+
